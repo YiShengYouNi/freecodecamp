@@ -1,5 +1,13 @@
 {
-  "name": "freeCodeCamp challenge"
+  "name": "freeCodeCampChallenge",
   "version": "0.0.1",
-  "author": "heng wei"
+  "author": "heng wei",
+  "description": "this is a repository of leaning freeCodeCamp challenge",
+  "keywords": [
+    "freecodecamp"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "moment": "2.10.2"
+  }
 }
